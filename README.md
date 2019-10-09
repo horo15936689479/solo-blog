@@ -10,7 +10,8 @@ horo15936689479 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.horo.tech/hello-solo)
+* [Mybatis-Plus的BaseMapper的使用](http://www.horo.tech/articles/2019/10/09/1570604231491.html)
+* [入门](http://www.horo.tech/articles/2019/10/09/1570590249496.html)
 
 
 
