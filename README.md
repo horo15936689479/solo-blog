@@ -10,6 +10,7 @@ horo15936689479 的个人博客
 
 ### 最新
 
+* [spring常用注解一图流](http://www.horo.tech/articles/2019/10/11/1570761909077.html)
 * [maven CLEAN,PACKAGE,INSTALL和DEPLOY的区别](http://www.horo.tech/articles/2019/10/10/1570680667397.html)
 * [Mybatis-Plus的BaseMapper的使用](http://www.horo.tech/articles/2019/10/09/1570604231491.html)
 * [入门](http://www.horo.tech/articles/2019/10/09/1570590249496.html)
