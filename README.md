@@ -10,13 +10,16 @@ Horo
 
 ### 最新
 
+* [锚定效应是个啥](http://www.horo.tech/articles/2019/10/23/1571816285916.html)
 * [Spring注解之@validated的使用](http://www.horo.tech/articles/2019/10/21/1571628741124.html)
 * [红黑树详解(转)](http://www.horo.tech/articles/2019/10/18/1571386368417.html)
+* [认识Redis，Redis相关问题详解(转)](http://www.horo.tech/articles/2019/10/18/1571385609869.html)
 * [面试官，不要再问我三次握手和四次挥手(转)](http://www.horo.tech/articles/2019/10/18/1571385087981.html)
 * [Java之static静态关键字详解](http://www.horo.tech/articles/2019/10/18/1571371145994.html)
 * [MySQL 与 [charlist]% 通配符](http://www.horo.tech/articles/2019/10/17/1571281995405.html)
 * [BigDecimal 基本使用](http://www.horo.tech/articles/2019/10/15/1571134511938.html)
 * [SQL记录笔记](http://www.horo.tech/articles/2019/10/14/1571048092348.html)
+* [lambda表达式 Java箭头函数](http://www.horo.tech/articles/2019/10/14/1571048052201.html)
 * [Java中@SuppressWarnings](http://www.horo.tech/articles/2019/10/14/1571037875755.html)
 * [@Lazy 注解](http://www.horo.tech/articles/2019/10/14/1571024891130.html)
 * [@EnableScheduling和@Scheduled的使用](http://www.horo.tech/articles/2019/10/14/1571019807791.html)
