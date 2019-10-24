@@ -10,6 +10,7 @@ Horo
 
 ### 最新
 
+* [HTTP状态码(详解×)(吹水√)](http://www.horo.tech/articles/2019/10/24/1571889206076.html)
 * [锚定效应是个啥](http://www.horo.tech/articles/2019/10/23/1571816285916.html)
 * [Spring注解之@validated的使用](http://www.horo.tech/articles/2019/10/21/1571628741124.html)
 * [红黑树详解(转)](http://www.horo.tech/articles/2019/10/18/1571386368417.html)
