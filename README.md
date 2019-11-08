@@ -2,7 +2,7 @@
 Horo
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">Talk is cheap, Show me the code！</h4>
 <p align="center"><a title="Horo" target="_blank" href="https://github.com/horo15936689479/solo-blog"><img src="https://img.shields.io/github/last-commit/horo15936689479/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/horo15936689479/solo-blog"><img src="https://img.shields.io/github/repo-size/horo15936689479/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@ Horo
 
 ### 最新
 
+* [idea连接linux及传输文件](http://www.horo.tech/articles/2019/11/08/1573206352563.html)
 * [赫萝](http://www.horo.tech/articles/2019/11/05/1572937895112.html)
 * [IDEA maven 多模块打包问题总结](http://www.horo.tech/articles/2019/11/05/1572936957394.html)
 * [linux下开启SSH，并且允许root用户远程登录,允许无密码登录](http://www.horo.tech/articles/2019/10/30/1572416049381.html)
@@ -29,10 +30,10 @@ Horo
 * [@EnableScheduling和@Scheduled的使用](http://www.horo.tech/articles/2019/10/14/1571019807791.html)
 * [spring常用注解一图流](http://www.horo.tech/articles/2019/10/11/1570761909077.html)
 * [maven CLEAN,PACKAGE,INSTALL和DEPLOY的区别](http://www.horo.tech/articles/2019/10/10/1570680667397.html)
-* [Mybatis-Plus的BaseMapper的使用](http://www.horo.tech/articles/2019/10/09/1570604231491.html)
 
 ### 热门
 
+* [Mybatis-Plus的BaseMapper的使用](http://www.horo.tech/articles/2019/10/09/1570604231491.html)
 * [入门](http://www.horo.tech/articles/2019/10/09/1570590249496.html)
 
 
