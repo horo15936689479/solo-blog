@@ -5,11 +5,13 @@ Horo
 <h4 align="center">Talk is cheap, Show me the code！</h4>
 <p align="center"><a title="Horo" target="_blank" href="https://github.com/horo15936689479/solo-blog"><img src="https://img.shields.io/github/last-commit/horo15936689479/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/horo15936689479/solo-blog"><img src="https://img.shields.io/github/repo-size/horo15936689479/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/horo15936689479/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/horo15936689479/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [狗屁不通文章生成器](http://www.horo.tech/articles/2019/11/29/1575016786575.html)
+* [如何以docker方式在solo上挂载皮肤](http://www.horo.tech/articles/2019/11/27/1574823384006.html)
 * [linux下查找某个文件位置的方法](http://www.horo.tech/articles/2019/11/26/1574741984023.html)
 * [全球IPv4地址正式耗尽！](http://www.horo.tech/articles/2019/11/26/1574740853684.html)
 * [Spring Cloud](http://www.horo.tech/articles/2019/11/12/1573553183608.html)
@@ -28,20 +30,20 @@ Horo
 * [MySQL 与 [charlist]% 通配符](http://www.horo.tech/articles/2019/10/17/1571281995405.html)
 * [BigDecimal 基本使用](http://www.horo.tech/articles/2019/10/15/1571134511938.html)
 * [SQL记录笔记](http://www.horo.tech/articles/2019/10/14/1571048092348.html)
-* [lambda表达式 Java箭头函数](http://www.horo.tech/articles/2019/10/14/1571048052201.html)
-* [Java中@SuppressWarnings](http://www.horo.tech/articles/2019/10/14/1571037875755.html)
 
 ### 热门
 
 * [spring常用注解一图流](http://www.horo.tech/articles/2019/10/11/1570761909077.html)
 * [Mybatis-Plus的BaseMapper的使用](http://www.horo.tech/articles/2019/10/09/1570604231491.html)
-* [入门](http://www.horo.tech/articles/2019/10/09/1570590249496.html)
 * [maven CLEAN,PACKAGE,INSTALL和DEPLOY的区别](http://www.horo.tech/articles/2019/10/10/1570680667397.html)
+* [入门](http://www.horo.tech/articles/2019/10/09/1570590249496.html)
+* [lambda表达式 Java箭头函数](http://www.horo.tech/articles/2019/10/14/1571048052201.html)
 * [@Lazy 注解](http://www.horo.tech/articles/2019/10/14/1571024891130.html)
 * [@EnableScheduling和@Scheduled的使用](http://www.horo.tech/articles/2019/10/14/1571019807791.html)
+* [Java中@SuppressWarnings](http://www.horo.tech/articles/2019/10/14/1571037875755.html)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
